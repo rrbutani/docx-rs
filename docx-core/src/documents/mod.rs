@@ -13,8 +13,8 @@ mod settings;
 mod styles;
 mod xml_docx;
 
-pub(crate) use build_xml::BuildXML;
-pub(crate) use history_id::HistoryId;
+pub use build_xml::BuildXML;
+pub use history_id::HistoryId;
 
 pub use comments::*;
 pub use content_types::*;
@@ -72,6 +72,8 @@ impl Default for Docx {
         }
     }
 }
+
+impl HistoryId for Docx {}
 
 impl Docx {
     pub fn new() -> Docx {
@@ -149,6 +151,7 @@ impl Docx {
 
     pub fn build(&mut self) -> XMLDocx {
         self.update_comments();
+        self.clear_history_id();
         XMLDocx {
             content_type: self.content_type.build(),
             rels: self.rels.build(),
