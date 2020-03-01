@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:o="urn:schemas-microsoft-com:office:office" 
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" 
+    xmlns:v="urn:schemas-microsoft-com:vml" 
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" 
+    xmlns:w10="urn:schemas-microsoft-com:office:word" 
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" 
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" 
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" 
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" mc:Ignorable="w14 wp14">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:widowControl/>
+                <w:jc w:val="left"/>
+                <w:rPr></w:rPr>
+            </w:pPr>
+            <w:r>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor behindDoc="0" distT="0" distB="0" distL="0" distR="0" simplePos="0" locked="0" layoutInCell="1" allowOverlap="1" relativeHeight="2">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>385445</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>200025</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="3834765" cy="156210"/>
+                                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="1" name="シェイプ1"/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="3834000" cy="155520"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst></a:avLst>
+                                                </a:prstGeom>
+                                                <a:noFill/>
+                                                <a:ln>
+                                                    <a:noFill/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:style>
+                                                <a:lnRef idx="0"/>
+                                                <a:fillRef idx="0"/>
+                                                <a:effectRef idx="0"/>
+                                                <a:fontRef idx="minor"/>
+                                            </wps:style>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p>
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Style19"/>
+                                                            <w:overflowPunct w:val="true"/>
+                                                            <w:jc w:val="left"/>
+                                                            <w:rPr></w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr></w:rPr>
+                                                            <w:t>World</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr lIns="0" rIns="0" tIns="0" bIns="0">
+                                                <a:spAutoFit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect id="shape_0" ID="シェイプ1" stroked="f" style="position:absolute;margin-left:30.35pt;margin-top:15.75pt;width:301.85pt;height:12.2pt">
+                                <w10:wrap type="square"/>
+                                <v:fill o:detectmouseclick="t" on="false"/>
+                                <v:stroke color="#3465a4" joinstyle="round" endcap="flat"/>
+                                <v:textbox>
+                                    <w:txbxContent>
+                                        <w:p>
+                                            <w:pPr>
+                                                <w:pStyle w:val="Style19"/>
+                                                <w:overflowPunct w:val="true"/>
+                                                <w:jc w:val="left"/>
+                                                <w:rPr></w:rPr>
+                                            </w:pPr>
+                                            <w:r>
+                                                <w:rPr></w:rPr>
+                                                <w:t>World</w:t>
+                                            </w:r>
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="Hiragino Kaku Gothic Pro W3" w:cs="ＭＳ Ｐゴシック" w:ascii="Hiragino Kaku Gothic Pro W3" w:hAnsi="Hiragino Kaku Gothic Pro W3"/>
+                    <w:kern w:val="0"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>Hello</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:widowControl/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Hiragino Kaku Gothic Pro W3" w:hAnsi="Hiragino Kaku Gothic Pro W3" w:eastAsia="Hiragino Kaku Gothic Pro W3" w:cs="ＭＳ Ｐゴシック"/>
+                    <w:kern w:val="0"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="Hiragino Kaku Gothic Pro W3" w:cs="ＭＳ Ｐゴシック" w:ascii="Hiragino Kaku Gothic Pro W3" w:hAnsi="Hiragino Kaku Gothic Pro W3"/>
+                    <w:kern w:val="0"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+                <w:widowControl/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Hiragino Kaku Gothic Pro W3" w:hAnsi="Hiragino Kaku Gothic Pro W3" w:eastAsia="Hiragino Kaku Gothic Pro W3" w:cs="ＭＳ Ｐゴシック"/>
+                    <w:kern w:val="0"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr></w:rPr>
+            </w:r>
+        </w:p>
+        <w:sectPr>
+            <w:type w:val="nextPage"/>
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:left="1134" w:right="1134" w:header="0" w:top="1985" w:footer="0" w:bottom="1701" w:gutter="0"/>
+            <w:pgNumType w:fmt="decimal"/>
+            <w:formProt w:val="false"/>
+            <w:textDirection w:val="lrTb"/>
+            <w:docGrid w:type="lines" w:linePitch="360" w:charSpace="5938"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
