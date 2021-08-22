@@ -8,7 +8,7 @@ use crate::xml_builder::*;
 #[derive(Debug, Clone, Deserialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Text {
-    text: String,
+    pub text: String,
     preserve_space: bool,
 }
 

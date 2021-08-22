@@ -13,10 +13,10 @@ use crate::xml_builder::*;
 */
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Default)]
 pub struct RunFonts {
-    ascii: Option<String>,
-    hi_ansi: Option<String>,
-    east_asia: Option<String>,
-    cs: Option<String>,
+    pub ascii: Option<String>,
+    pub hi_ansi: Option<String>,
+    pub east_asia: Option<String>,
+    pub cs: Option<String>,
 }
 
 impl RunFonts {
